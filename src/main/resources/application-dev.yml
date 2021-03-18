@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      user: admin
+      password: admin
+      authentication-database: admin
+      database: notedb
+      uri: mongodb://localhost:27017/notedb
